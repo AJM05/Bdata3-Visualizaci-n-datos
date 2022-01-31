@@ -1,4 +1,4 @@
-Row,Day,Day.Of.Week,Date,Page.Loads,Unique.Visits,First.Time.Visits,Returning.Visits
+Row,Day,Day_Of_Week,Date,Page_Loads,Unique_Visits,First_Time.Visits,Returning_Visits
 1,Sunday,1,9/14/2014,"2,146","1,582","1,430",152
 2,Monday,2,9/15/2014,"3,621","2,528","2,297",231
 3,Tuesday,3,9/16/2014,"3,698","2,630","2,352",278
